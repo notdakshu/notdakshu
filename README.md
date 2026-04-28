@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Daksh 😄
 
-<!--
-**notdakshu/notdakshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build things across **creative tech** and **software development**.
 
-Here are some ideas to get you started:
+## What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Video editing and VFX
+* Game development (primarily Unreal Engine)
+* Building small apps and tools
+* Exploring data science and machine learning
+
+## Tech & Tools
+
+* **Game Dev:** Unreal Engine, Godot, Unity
+* **3D & Design:** Cascadeur, Substance Painter, Photoshop, Figma
+* **Programming:** Python, basic web tech, APIs, data handling
+* **Editing:** DaVinci Resolve
+
+## Projects
+
+* Weather application using APIs
+* Utility tools (YouTube downloader, linktree)
+* Naive Bayes spam classifier
+* Ongoing experiments in ML and app development
+
+## Currently
+
+* Learning machine learning foundations
+* Building and improving real-world projects
+* Growing a strong, practical portfolio
+
+## Links
+
+* Portfolio: (add link)
+* GitHub: (add link)
+
+---
+
+Focused on building, learning, and improving through hands-on work.
